@@ -1,0 +1,22 @@
+en:
+  date:
+    distance_in_words:
+      x_years_ago:
+        one: "about 1 year ago"
+        other: "about %{count} years ago"
+      x_months_ago:
+        one: "about 1 month ago"
+        other: "about %{count} months ago"
+      x_days_ago: "%{count} days ago"
+      last_x: "last %{day}"
+      yesterday: "yesterday"
+      today: "today"
+      tomorrow: "tomorrow"
+      next_x: "next %{day}"
+      in_x_days: "in %{count} days"
+      in_x_months:
+        one: "in about 1 month"
+        other: "in about %{count} months"
+      in_x_years:
+        one: "in about 1 year"
+        other: "in about %{count} years"
